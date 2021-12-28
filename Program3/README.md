@@ -1,3 +1,4 @@
+![Program3b output](https://user-images.githubusercontent.com/69300792/147568751-c08c1ad2-e328-42d1-9da6-c1faaf3fe3d1.png)
 Program 3
 
 Aim of the Program
